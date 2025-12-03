@@ -1,0 +1,5 @@
+{
+  "name": "Impossible Triangle Visualizer",
+  "description": "An interactive visualization of the 'Fast, Good, Cheap' project management constraint, demonstrating why all three cannot coexist.",
+  "requestFramePermissions": []
+}
